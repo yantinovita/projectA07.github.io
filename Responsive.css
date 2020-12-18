@@ -1,0 +1,62 @@
+
+@media all and (max-width: 1000px) {
+  nav a {
+    font-size: 18px;
+  }
+
+  .profile{
+    width: 32%;
+    margin-bottom: 50px;
+  }
+
+  .Section-team {
+    padding-bottom: 950px;
+  }
+}
+
+@media all and (max-width: 870px) {
+  .Section-team {
+    padding-bottom: 870px;
+  }
+
+  .heading1 h2 {
+    padding-top: 60px;
+  }
+
+  footer {
+    margin-top: 350px;
+  }
+}
+
+@media all and (max-width: 770px) {
+  .Section-team {
+    padding-bottom: 800px;
+  }
+}
+
+@media all and (max-width: 690px) {
+  .Section-team {
+    padding-bottom: 750px;
+  }
+
+  footer {
+    margin-top: 370px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  nav ul {
+    display: none;
+  }
+  .menu-icon {
+    display: block;
+    color: white;
+    font-size: 25px;
+    padding-top: 12px;
+  }
+
+  .profile{
+    width: 100%;
+
+  }
+}
