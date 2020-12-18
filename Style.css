@@ -59,7 +59,7 @@ span {
 }
 
 .about-us{
-	background-image: url('gambar/background.jpg');
+	background-image: url('background.jpg');
 	opacity: 0.7;
 	background-size: cover;
 	width: 100%;
@@ -163,7 +163,7 @@ nav li {
 
 .top-wrapper {
     padding: 180px 0px 100px 0px;
-    background-image: url('gambar/Home.jpg');
+    background-image: url('Home.jpg');
     background-size: cover;
     color: #ecf0f1;
     text-align: center;
